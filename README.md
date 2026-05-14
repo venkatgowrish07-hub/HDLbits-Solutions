@@ -1,9 +1,8 @@
-# HDLbits-Solutions
 My Verilog solutions to HDLBits problems, covering digital logic design concepts such as combinational circuits, sequential logic, finite state machines, counters, and arithmetic circuits
 
 # HDLbits-Solutions
 
-**HDLBits** is a platform designed to practice **digital logic design using Verilog HDL**.This repository contains my **solutions and implementations for problems from HDLBits.
+**HDLBits** is a platform designed to practice **digital logic design using Verilog HDL**.This repository contains my solutions and implementations for problems from HDLBits.
 
 My Username : **Yuvapunnam**
 
@@ -13,7 +12,7 @@ The problems cover a wide range of topics including **combinational logic, seque
 
 # About HDLBits
 
-HDLBits is an online platform that provides **hands-on exercises for learning Verilog and digital circuit design**.  
+HDLBits is an online platform that provides **problems for learning Verilog and digital circuit design**.  
 Problems are designed to progressively build understanding of digital logic concepts and hardware design techniques.
 
 Topics covered include:
