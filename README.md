@@ -22,3 +22,5 @@ Topics covered include:
 - Finite State Machines (FSMs)
 - Arithmetic circuits
 - Timing and simulation concepts
+  
+<img width="422" height="179" alt="Username and Rank" src="https://github.com/venkatgowrish07-hub/HDLbits-Solutions/blob/main/Rank%20And%20Username.png" />
